@@ -1,6 +1,0 @@
-1. Arduino 
-2. Motor EM630 cc 120V 170rpm 2 efecto hall 3A deafasdos 90º reductora esquema reductora circulo raya rectangulo en dos partes R | M raya cuadrado | E | 30 a 1 cada vuelta 3 pulsos
-hay tres imanes y 12 flancos 
-3.Conexiones la 12V van al L290 
-A interrubcion al harware por eso se escoge el arduino ese HwIn D18,D19
-B D3
